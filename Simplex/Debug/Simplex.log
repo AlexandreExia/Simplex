@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Simplex.cpp
+c:\users\alex\documents\simplex\simplex\simplex.cpp(176): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours...
+  Simplex.vcxproj -> C:\Users\Alex\Documents\Simplex\Debug\Simplex.exe
+  Simplex.vcxproj -> C:\Users\Alex\Documents\Simplex\Debug\Simplex.pdb (Full PDB)
